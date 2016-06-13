@@ -28,19 +28,7 @@
 			</tr>
 		
 		
-			
-				<tr>
-							<th>#</th>
-							<th>fender</th>
-							<th>HC-01</th>
-							<th>acoustic</th>
-							<th>6</th>
-							<th>Cedar</th>
-							<th>Cocobolo</th>
-							<th>999</th>
-						</tr>						
 				
-									
 		</table>
 	</div>
 <div id="action">
